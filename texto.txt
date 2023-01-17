@@ -1,0 +1,1 @@
+Para a constução do projeto individual 1  foi utilizado o tema livraria, criando 3 rodas coletando informações. Foi intalado o npm install -g json-server no cmd da pasta e inspecionado o npx json-server --watch db.json para verificar o código.
